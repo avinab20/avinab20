@@ -8,7 +8,7 @@ As a student studying Computer Science and Psychology at Washington University i
   - I'm working on building my personal website showcasing my artwork and other creative projects using HTML, CSS, and Javascript. The completed version is currently hosted on [WIX](https://abansal777.wixsite.com/portfolio).
 - 📍 Exploring Mobility Data: Project in Network Analysis Class
   -  Created location networks and used centrality measures, PageRank, and motif analysis to see if important locations lined up with predictions, confirming our chosen network creation method, and checked for patterns in movement and psychological traits
-  -  Reported results in an academic research paper
+  -  Reported methods and results in an academic research paper
 <!--
 **avinab20/avinab20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
