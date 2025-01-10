@@ -4,13 +4,15 @@ As a student studying Computer Science and Psychology at Washington University i
 [LinkedIn](https://www.linkedin.com/in/avina-bansal/)
 
 ## 💻 Academic Projects
+
 - 🎨 [Creative Portfolio](https://wustl-cse204a-fl2024-2.github.io/final-project-avinab20/)
   - I'm working on building my personal website showcasing my artwork and other creative projects using HTML, CSS, and Javascript. The completed version is currently hosted on [WIX](https://abansal777.wixsite.com/portfolio).
 - 📍 Exploring Mobility Data
   -  Created location networks and used centrality measures, PageRank, and motif analysis to see if important locations lined up with predictions, confirming our chosen network creation method, and analyzed patterns between movement and psychological traits
   - Reported methods and results in an academic research paper
  
-## Resume (2025)
+## 📝 Resume (2025)
+
 [View PDF](Avina_Bansal_Resume_2025.pdf)
 
 <!--
