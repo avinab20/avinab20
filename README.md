@@ -11,7 +11,7 @@ As a student studying Computer Science and Psychology at Washington University i
   - Reported methods and results in an academic research paper
  
 ## Resume (2025)
-[View](https://drive.google.com/file/d/1-qVU022JFNVv6qR_yBKNmxHCTtY7KSij/view?usp=sharing)  [Download PDF](Avina_Bansal_Resume_2025.pdf)
+[View PDF](Avina_Bansal_Resume_2025.pdf)
 
 <!--
 **avinab20/avinab20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
