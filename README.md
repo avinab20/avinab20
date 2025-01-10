@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 As a student studying Computer Science and Psychology at Washington University in St. Louis, I am passionate about leveraging data to understand and predict human behavior. My studies and hands-on projects have shaped my skills in data analysis, visualizations, and modeling while my experiences outside the classroom—from UX design to video editing—reflect my drive to always explore new tools and expand my knowledge base. I’m eager to bring my analytical and creative skills to a data science or analyst role, where I can contribute insights that bridge technology and human behavior.
-
+[LinkedIn](https://www.linkedin.com/in/avina-bansal/)
 
 ## 💻 Academic Projects
 - 🎨 [Creative Portfolio](https://wustl-cse204a-fl2024-2.github.io/final-project-avinab20/)
